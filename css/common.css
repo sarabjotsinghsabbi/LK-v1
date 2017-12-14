@@ -24,7 +24,7 @@ h4{font-weight: bold; text-align: left;}
 .jumbotron h3{font-size:12px;}
 .jumbotron .col-sm-6 {margin-right:0;}
 .hitSongs{min-height: 470px;}
-#recent-loaded-songs-div {position: relative; top: -30px;}
+#recent-loaded-songs-div {position: relative; top: 30px;}
 #recent-loaded-songs-div h2{font-size: 20px; text-align: center; font-weight: bold;}
 .jumbotron h2{font-size: 18px; text-align: center;}
 .jumbotron p{font-size: 16px; font-weight: bold;}	
